@@ -10,7 +10,7 @@ const Navbar = () => {
         <li className='cursor-pointer hover:font-bold transition-all'>Home</li>
         <li className='cursor-pointer hover:font-bold transition-all'>About</li>
       </ul>
-    </nav>  
+    </nav>
   )
 }
 
